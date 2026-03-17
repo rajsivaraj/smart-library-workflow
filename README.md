@@ -23,5 +23,5 @@ This project automates the library book request process using ServiceNow.
 
 ## Author
 Sivaraj
-Bsc computer science 
+Bsc computer science /
 Final year
